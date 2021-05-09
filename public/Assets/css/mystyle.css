@@ -1,0 +1,58 @@
+body
+{
+color:#004261;
+font-family:calibri;
+}
+table tr th 
+{
+background:#004261;
+color:white;
+text-align:center;
+}
+table tr td
+{
+vertical-align:middle !important;
+background:#00628F;
+color:white;
+text-align:center;
+}
+nav ul li
+{
+margin-top:5px;
+}
+nav ul li a
+{
+font-size:20px;
+color:white;
+}
+nav ul li a:hover
+{
+border-radius:5px;
+background:#00628F;
+color:white;
+}
+.btn
+{
+font-family:calibri;
+background:#004261;
+color:white;
+}
+.btn:hover
+{
+background:#00628F;
+color:white;
+}
+.navbar
+{
+color:white;
+background:#004261;	
+}
+.fa-trash,.fa-edit,.fa-eye
+{
+color:white;
+}
+.input-group-text
+{
+color:white;
+background:#004261;
+}
